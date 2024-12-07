@@ -1,0 +1,13 @@
+div {
+    background-color: blueviolet;
+}
+.block {
+    box-shadow: 5px 10px 50px 12px rgb(61, 5, 58);
+}
+
+.block2 {
+    box-shadow: -5px -10px 50px 12px rgb(61, 5, 58)
+}
+.block3 {
+    box-shadow: 5px 10px 50px 12px rgb(61, 5, 58)
+}

@@ -1,0 +1,27 @@
+div {
+    background-color: blueviolet;
+}
+.block {
+    background-color: rgb(114, 114, 252);
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 700;
+    font-style: normal;
+    max-width: 2000px;
+    min-width: 1000px;
+}
+
+.block2 {
+    padding: 50px 30px 60px 90px;
+    margin: 100px 20px 40px 60px;
+}
+.block3 {
+    /* border: 10px double greenyellow;
+    border-top: 10px groove #93af13; */
+
+    /* border-radius: 40px; */
+    /* border-top-left-radius: 30px; */
+    outline: 10px double greenyellow;
+}

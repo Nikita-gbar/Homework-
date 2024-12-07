@@ -1,0 +1,17 @@
+div {
+    background-color: blueviolet;
+}
+.block {
+    /* opacity: 0.2;
+    visibility: visible; */
+    height: 300px;
+    width: 300px;
+    overflow: scroll;
+}
+
+.block2 {
+    display: inline;
+}
+.block3 {
+    display: block;
+}
