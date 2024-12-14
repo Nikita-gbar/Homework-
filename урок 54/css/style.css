@@ -8,7 +8,7 @@ body {
 .block {
     position: relative;
     min-height: 100px;
-    max-width: 1000px;
+    max-width: 2000px;
     background: #ffffff;
     border-radius: 10px;
 }
