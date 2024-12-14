@@ -1,0 +1,33 @@
+body {
+    background: #444444;
+}
+
+.container {
+    height: 200px;
+}
+.block {
+    position: relative;
+    min-height: 100px;
+    max-width: 1000px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+.circle {
+    background: #850000;
+    min-height: 100px;
+    min-width: 100px;
+    border-radius: 100px;
+}
+
+.white {
+    position: fixed;
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+}
+
+.red {
+    position: absolute;
+    bottom: 50%;
+    left: 10%;
+}
