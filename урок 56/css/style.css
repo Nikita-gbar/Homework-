@@ -1,0 +1,83 @@
+body {
+    background-color: #1d1d1f;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 2rem;
+}
+
+.wrapper {
+    padding: 50px;
+    min-height: 100%;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.link {
+    display: block;
+    background-color: #555;
+    border-radius: 2em;
+    padding: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}
+
+.input {
+    display: block;
+    width: 100%;
+    padding: 2em;
+    margin-bottom: 100px;
+    font-size: inherit;
+}
+
+.button {
+    display: block;
+    background-color: #555;
+    border-radius: 2em;
+    padding: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: inherit;
+    color: inherit;
+    margin-bottom: 100px;
+    width: 100%;
+}
+
+/* ======================================================== */
+
+.link:hover {
+    background: rgb(177, 156, 100);
+}
+.link:active {
+    background: rgb(75, 157, 168);
+}
+.block__title:hover {
+    color: rgb(211, 19, 218);
+}
+
+.button:active {
+    background: rgb(101, 101, 226);
+}
+:focus {
+    box-shadow: 0 0 20px 10px #0d66af;
+}
+
+.list__item:first-child {
+    color: rgb(50, 48, 151);
+}
+.list__item:last-child {
+    color: blue;
+}
+.list__item:nth-child(odd) {
+    color: rgb(133, 75, 199);
+}
+.list__item:nth-child(even) {
+    color: rgb(136, 54, 118);
+}
+
+.list__other:nth-child(4) {
+    background: rgb(48, 70, 131);
+}
