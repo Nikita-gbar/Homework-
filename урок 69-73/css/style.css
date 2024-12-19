@@ -112,6 +112,7 @@ body {
 .hero__video::before {
     content: '';
     display: block;
+    position: absolute;
     top: 0;
     right: 0;
     left: 0;
